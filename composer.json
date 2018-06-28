@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mpdf/mpdf": "^7.1",
+        "components/jquery": "^3.3",
+        "twbs/bootstrap": "^4.1",
+        "fortawesome/font-awesome": "^4.7"
+    }
+}
